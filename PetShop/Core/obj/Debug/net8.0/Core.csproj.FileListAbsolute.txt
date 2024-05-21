@@ -1,0 +1,12 @@
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Allahyar\Desktop\ALLTASKSMVC\HomePractise\PetShop\PetShop\Core\obj\Debug\net8.0\ref\Core.dll
